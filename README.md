@@ -16,6 +16,7 @@ The project answers six questions on the Netflix Movies and TV shows dataset. Th
 ## File description
 - There is a notebook attached to showcase the code I have used for the analysis - Netflix data analysis code.ipynb
 - Dataset location - input/netflix_titles.csv
+- There is a requirements.txt file which contains all the pre-installed libraries used in the project.
 
 ## Dataset
 Netflix Movies and TV shows datset - [https://www.kaggle.com/shivamb/netflix-shows]
