@@ -14,3 +14,6 @@
 
 ## License and Acknowledgements
 ### The used Netflix Movies and TV shows dataset is published along with the licensing terms on Kaggle: [https://www.kaggle.com/shivamb/netflix-shows]
+
+## Link to my blogpost
+### 
