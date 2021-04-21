@@ -2,7 +2,7 @@
 
 ## Overview
 
-### The project answers six questions on the Netflix Movies and TV shows dataset. The dataset was first assessed, cleaned and then analused and visulaised to get insights.
+The project answers six questions on the Netflix Movies and TV shows dataset. The dataset was first assessed, cleaned and then analused and visulaised to get insights.
 
 ## Prerequisites
 
