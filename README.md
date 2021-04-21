@@ -21,10 +21,10 @@
 Netflix Movies and TV shows datset - [https://www.kaggle.com/shivamb/netflix-shows]
 
 ## License and Acknowledgements
-### The used Netflix Movies and TV shows dataset is published along with the licensing terms on Kaggle: [https://www.kaggle.com/shivamb/netflix-shows]
+The used Netflix Movies and TV shows dataset is published along with the licensing terms on Kaggle: [https://www.kaggle.com/shivamb/netflix-shows]
 
 ## Link to my blogpost
-### [https://kkaju-g.medium.com/netflix-stepping-into-the-online-entertainment-culture-33003e441796]
+[https://kkaju-g.medium.com/netflix-stepping-into-the-online-entertainment-culture-33003e441796]
 
 ## Author
-### Kajal Gupta
+Kajal Gupta
